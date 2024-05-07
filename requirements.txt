@@ -1,0 +1,11 @@
+numpy
+tqdm
+keras>=2.3.0
+tensorflow>=2.2
+opencv-python
+imageio>=2.5.0
+fastapi
+uvicorn
+gunicorn
+keras-segmentation
+streamlit
