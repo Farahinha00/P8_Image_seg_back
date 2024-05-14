@@ -1,11 +1,15 @@
 numpy
 tqdm
-keras>=2.3.0
+keras==2.4.3
+#tensorflow==2.5.0
 tensorflow>=2.2
 opencv-python
 imageio>=2.5.0
 fastapi
 uvicorn
 gunicorn
-keras-segmentation
+#git+https://github.com/Farahinha00/image-segmentation-keras.git@Farahinha00-patch-1#egg=keras-segmentation
 streamlit
+Pillow
+ipython
+typing_extensions>=3.10.0
